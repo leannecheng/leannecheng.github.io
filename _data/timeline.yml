@@ -1,0 +1,29 @@
+- title: B.S. Computer Science, University of Michigan
+  from: 2023
+  to: 2027 (expected)
+  description: GPA 3.78. Completed core coursework in Data Structures and Algorithms and Computer Organization. Selected as an Instructional Aide for EECS 183 for Fall 2025.
+
+- title: Developer, Chinese Enrollment Tracker
+  from: 2024
+  to: 2024
+  description: Built a static website using Chart.js and Bootstrap to visualize Mandarin and Cantonese language enrollment trends. This early-stage project laid the foundation for a university-backed dashboard initiative.
+
+- title: Developer, U-M Language Resource Center
+  from: 2024
+  to: present
+  description: Lead internal software projects supporting language education. Developed a grant-funded dashboard to visualize enrollment trends in underrepresented languages. Currently prototyping an AI-powered scavenger hunt robot for outreach and instruction.
+
+- title: Lead Developer, Dying Dialects Dashboard
+  from: 2024
+  to: present
+  description: Designed and built an interactive dashboard for the U-M Library to track student retention in language programs. Developed the frontend using React and collaborated with the LRC to align features with instructional goals.
+
+- title: Professional Committee Member, Girls in Electrical Engineering and Computer Science (GEECS)
+  from: 2024
+  to: present
+  description: Plan and support events focused on career development, technical workshops, and networking for women and gender minorities in tech.
+
+- title: Frontend + Backend Contributor, MedStory (LLC)
+  from: 2025
+  to: present
+  description: Built core features for a mobile health-tracking app, including a calendar interface and PDF export system. Worked with React Native and Django in a collaborative team focused on chronic illness support tools.
