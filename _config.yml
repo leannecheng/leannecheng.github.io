@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Leanne Cheng
 description         : >-
-                      CS @ UMich | Building inclusive tools for accessible, human-centered learning
+                      CS @ UMich '27 ✨ Making learning easier with thoughtful code 
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : leannecheng/leannecheng.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
