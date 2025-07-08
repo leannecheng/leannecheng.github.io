@@ -7,11 +7,11 @@ weight: 3
 
 # **About Me**
 
-Hi, I'm **{{ site.author.name }}**! :wave:<br>
+Hi, I’m **Leanne Cheng**! :wave:<br>
 
-I’m a **junior at the University of Michigan** studying **Computer Science**, where I build software with a focus on **education, access, and impact**, especially for **underrepresented languages**. My work spans dashboards, learning tools, and health applications built to solve real problems.<br>
+I’m a **junior studying Computer Science at the University of Michigan**, focused on building scalable, user-centered software. My work includes interactive dashboards for language data, mobile tools for health tracking, and platforms that improve access to underrepresented resources.<br>
 
-I’m an **Instructional Aide for EECS 183** and serve on the **professional committee for Girls in Electrical Engineering and Computer Science (GEECS)**. Outside of tech, I **coach figure skating** and explore **creative direction and makeup** as forms of storytelling.<br>
+I’m currently an **Instructional Aide for EECS 183** and serve on the **professional committee for Girls in Electrical Engineering and Computer Science (GEECS)**. Outside of tech, I **coach figure skating** and explore **creative direction and makeup** as forms of visual storytelling.<br>
 
 **Languages:**  
 C++, Python, TypeScript, Java, C, SQL
