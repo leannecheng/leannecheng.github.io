@@ -49,6 +49,6 @@ I also built a web uploader so staff can drop in new term files, automatically c
 ---
 
 <p class="text-center">
-  {% include elements/button.html link="https://lrc-streaming-snapshots.streamlit.app/" text="View Dashboard" %}
+  {% include elements/button.html link="https://lrc-streaming.streamlit.app/" text="View Dashboard" %}
   {% include elements/button.html link="https://github.com/leannecheng/LRC-Streaming-Uploader" text="View Uploader Repo" %}
 </p>
